@@ -1,3 +1,4 @@
-https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
-https://www.geeksforgeeks.org/how-to-automatically-install-required-packages-from-a-python-script/
-https://realpython.com/python-generate-qr-code/
+- https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
+- https://www.geeksforgeeks.org/how-to-automatically-install-required-packages-from-a-python-script/
+- https://realpython.com/python-generate-qr-code/
+- https://www.askpython.com/python/examples/display-images-using-python
