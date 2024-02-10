@@ -2,3 +2,4 @@
 - https://www.geeksforgeeks.org/how-to-automatically-install-required-packages-from-a-python-script/
 - https://realpython.com/python-generate-qr-code/
 - https://www.askpython.com/python/examples/display-images-using-python
+- https://android.stackexchange.com/questions/214574/how-do-i-enable-dns-over-https-on-firefox-for-android#217920
