@@ -4,3 +4,4 @@
 - https://www.askpython.com/python/examples/display-images-using-python
 - https://android.stackexchange.com/questions/214574/how-do-i-enable-dns-over-https-on-firefox-for-android#217920
 - https://pyformat.info/
+- https://github.com/disposable-email-domains/disposable-email-domains/blob/master/disposable_email_blocklist.conf
